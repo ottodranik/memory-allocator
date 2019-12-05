@@ -1,0 +1,1 @@
+clang main.c allocator.c helpers.c header-helpers.c -o MemoryAllocator
